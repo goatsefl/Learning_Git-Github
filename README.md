@@ -8,3 +8,4 @@
 * Extra line for accessing pull from different branches using "git pull --all".
 * Learning Rebase.
 * On default branch.
+* Just for function, new branch is created to make use of properties.
