@@ -9,4 +9,5 @@
 * Learning Rebase.
 * On default branch.
 * Just for function, new branch is created to make use of properties.
+* Creating conflict while pulling and resolving (Edited remotely).
 * Changes made in the local system to resolve conflicts while pulling.
